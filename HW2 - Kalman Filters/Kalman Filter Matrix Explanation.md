@@ -1,13 +1,11 @@
+https://discussions.udacity.com/t/what-are-all-those-matrices-for-the-kalman-filter-part-i-x-f-p-h-r-u/57046
+
 What are all those matrices for the Kalman filter? Part I: x, F, P, H, R, u
 Courses Artificial Intelligence for Robotics
 Mar 2012
-1 / 66
-Mar 2012
-Jun 28
-
-
 
 Anne_PaulsonMar '12
+
 Oh my gosh, you say, what the heck are all those Kalman matrices and vectors? I have no idea what’s going on, you say. Sebastian kind of threw them at us without a whole lot of explanation.
 
 Ok, well, let’s try to figure them out a bit. Capital letters are for 2-D matrices, and bold lower case are for vectors, which are 1-D matrices.
